@@ -45,10 +45,11 @@ EduPlatform/
 │── README.md
 
 1. Clone the repository  -- git clone https://github.com/AKASHPATEL-89/eduplatform-frontend
+2. BAckent RRepository----git clone  https://github.com/AKASHPATEL-89/eduplatform-backend
 
-2. Go to project folder
-3. Run the project
-4. 
+3. Go to project folder
+4. Run the project
+5. 
 ## Setup & Run
 
 ```bash
