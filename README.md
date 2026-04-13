@@ -44,7 +44,7 @@ EduPlatform/
 │── assets/
 │── README.md
 
-1. Clone the repository  -- git clone https://github.com/your-username/eduplatform.git
+1. Clone the repository  -- git clone https://github.com/AKASHPATEL-89/eduplatform-frontend
 
 2. Go to project folder
 3. Run the project
